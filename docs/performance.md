@@ -35,7 +35,7 @@ npm ci && npm run build
 Then, navigate to the benchmark directory and execute the following commands:
 
 ```sh
-cd benchmark && npm ci
+cd benchmark && npm install
 npm test
 ```
 
